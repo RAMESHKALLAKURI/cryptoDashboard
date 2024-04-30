@@ -35,7 +35,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* var(--black) == #111 */
-  background-color: var(--black);
+  background-color:var(--black);
+  
 }
 
 a {
